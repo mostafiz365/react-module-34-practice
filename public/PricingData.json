@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": "$ 1000",
+      "billing": "Monthly",
+      "features": [
+        "Access to Gym Equipment",
+        "Locker Facility",
+        "1 Hour Daily Access",
+        "No Trainer Support"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "price": "$ 2000",
+      "billing": "Monthly",
+      "features": [
+        "Full Gym Access",
+        "Locker Facility",
+        "2 Hours Daily Access",
+        "Basic Trainer Support",
+        "Diet Chart"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": "$ 3500",
+      "billing": "Monthly",
+      "popular" : true,
+      "features": [
+        "Unlimited Gym Access",
+        "Personal Trainer",
+        "Advanced Diet Plan",
+        "Group Classes (Yoga, Cardio)",
+        "Locker + Shower Facility",
+        "24/7 Access"
+      ]
+    }
+]
